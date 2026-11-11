@@ -1,0 +1,100 @@
+{
+ "count": 12,
+ "indices": [
+  "component id",
+  "component code",
+  "component symbol",
+  "component unit",
+  "component name"
+ ],
+ "1": [
+  "1",
+  "PM10",
+  "PM₁₀",
+  "µg/m³",
+  "Particulate matter"
+ ],
+ "2": [
+  "2",
+  "CO",
+  "CO",
+  "mg/m³",
+  "Carbon monoxide"
+ ],
+ "3": [
+  "3",
+  "O3",
+  "O₃",
+  "µg/m³",
+  "Ozone"
+ ],
+ "4": [
+  "4",
+  "SO2",
+  "SO₂",
+  "µg/m³",
+  "Sulphur dioxide"
+ ],
+ "5": [
+  "5",
+  "NO2",
+  "NO₂",
+  "µg/m³",
+  "Nitrogen dioxide"
+ ],
+ "6": [
+  "6",
+  "PM10PB",
+  "Pb",
+  "µg/m³",
+  "Lead in particulate matter"
+ ],
+ "7": [
+  "7",
+  "PM10BAP",
+  "BaP",
+  "ng/m³",
+  "Benzo(a)pyrene in particulate matter"
+ ],
+ "8": [
+  "8",
+  "CHB",
+  "C₆H₆",
+  "µg/m³",
+  "Benzene"
+ ],
+ "9": [
+  "9",
+  "PM2",
+  "PM₂,₅",
+  "µg/m³",
+  "Particulate matter"
+ ],
+ "10": [
+  "10",
+  "PM10AS",
+  "As",
+  "ng/m³",
+  "Arsenic in particulate matter"
+ ],
+ "11": [
+  "11",
+  "PM10CD",
+  "Cd",
+  "ng/m³",
+  "Cadmium in particulate matter"
+ ],
+ "12": [
+  "12",
+  "PM10NI",
+  "Ni",
+  "ng/m³",
+  "Nickel in particulate matter"
+ ],
+ "meta": {
+  "source": "Source: Umweltbundesamt (German Federal Environment Agency), https://www.umweltbundesamt.de/daten/luft/luftdaten. All times are indicated in the time zone valid at the measurement time (CET or CEST).",
+  "cachedAt": "2026-11-11T10:46:22+01:00",
+  "uri": "/api/air-data/v4/components/json?lang=en",
+  "lang": "en"
+ }
+}
