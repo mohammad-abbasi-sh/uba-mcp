@@ -7,7 +7,7 @@ name = "uba-mcp"
 version = "0.1.0"
 description = "Unofficial read-only MCP server for UBA German air quality — hourly measurements and LQI from 400+ stations"
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "PolyForm-Noncommercial-1.0.0" }
 requires-python = ">=3.10"
 dependencies = [
     "mcp<2",

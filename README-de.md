@@ -50,7 +50,7 @@ python3 -m venv .venv && .venv/bin/pip install "mcp<2" httpx pytest
 
 ## Lizenz
 
-MIT
+[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 
 ---
 
